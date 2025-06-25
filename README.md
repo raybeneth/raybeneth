@@ -4,4 +4,3 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves to e
 
 ## 📫 How to reach me
 - Email: kangoshy@gmail.com
-- Twitter: [@KangoShy](https://x.com/binaye_forever_)
